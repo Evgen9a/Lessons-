@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Основна</title>
+</head>
+<body>
+    <header>
+Заголовок 
+    </header>
+Головний заголовок сторінки
+    <section>
+    Розділ 1
+    </section>
+    <footer>
+    VlasEv
+    </footer>
+</body>
+</html>
