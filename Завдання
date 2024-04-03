@@ -8,12 +8,12 @@
     <header>
 Заголовок 
     </header>
-Головний заголовок сторінки
+#Головний заголовок сторінки
     <section>
-    Розділ 1
+    ##Розділ 1
     </section>
     <footer>
-    VlasEv
+#####    VlasEv
     </footer>
 </body>
 </html>
